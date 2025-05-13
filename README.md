@@ -19,11 +19,13 @@ This project is based on Hugging Face's tutorial:
 
 ## 📁 Project Structure
 
+```bash
 .
 ├── main.py # Main script for running RAG pipeline
 ├── requirements.txt # Python dependencies
 ├── .env # Environment variables (see below)
 └── README.md # You're reading this!
+```
 
 ---
 
